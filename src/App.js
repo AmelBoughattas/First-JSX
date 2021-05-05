@@ -1,6 +1,6 @@
 import './App.css';
 import './style.css';
-import myImage from "./imageInSrc.jpg";
+import myImage from './imageInSrc.jpg';
 import MyVideo from './MyVideo.mp4';
 
 function App() {
