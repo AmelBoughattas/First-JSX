@@ -14,7 +14,7 @@ function App() {
         <img  src='./imageInPublic.jpg' className="imagepub"  alt="imagePub" />
       </div>
       <br/>
-      <video  style={{width:'320px' , height:'240px' }} src={MyVideo} controls  ></video>
+      <video  style={{width:'320px' , height:'240px' }} src={MyVideo} controls  />
     </div>
   );
 }
