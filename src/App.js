@@ -9,11 +9,10 @@ function App() {
       <div style={{border: 'solid 1px black', maxWidth: '100vw'}}>
         <h1 className="title red" >Amel Boughattas</h1>
         <br/>
-        <img src={myImage} className="image" alt="imageSrc" />
+        <img src={myImage} className="image"  />
         <br/>
         <img  src='./imageInPublic.jpg' className="imagepub"  alt="imagePub" />
       </div>
-      <br/>
       <video  style={{width:'320px' , height:'240px' }} src={MyVideo} controls  />
     </div>
   );
